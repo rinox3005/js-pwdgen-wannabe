@@ -20,3 +20,6 @@ output = `${output}${userName}${userLastName}${userFavColor}12`;
 
 //mostro il valore della variabile output nel documento HTML
 outputText.innerHTML = output;
+
+//visualizzazione output in console
+console.log(output);
